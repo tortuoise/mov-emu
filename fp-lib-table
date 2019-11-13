@@ -17,4 +17,5 @@
   (lib (name Connector_Pin)(type KiCad)(uri ${KISYSMOD}/Connector_Pin.pretty)(options "")(descr ""))
   (lib (name Connector_PinHeader_1.00mm)(type KiCad)(uri ${KISYSMOD}/Connector_PinHeader_1.00mm.pretty)(options "")(descr ""))
   (lib (name MountingHole)(type KiCad)(uri ${KISYSMOD}/MountingHole.pretty)(options "")(descr ""))
+  (lib (name Fiducial)(type KiCad)(uri ${KISYSMOD}/Fiducial.pretty)(options "")(descr ""))
 )

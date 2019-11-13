@@ -1,0 +1,142 @@
+Source:,/home/sridhar/dev/kicad/cc3220s/emulation4l/emulation4l.sch,,,,,,,
+Date:,Tue 12 Nov 2019 15:59:41 GMT,,,,,,,
+Tool:,Eeschema 5.1.2-f72e74a~84~ubuntu18.04.1,,,,,,,
+Generator:,/usr/share/kicad/plugins/bom_csv_grouped_by_value.py,,,,,,,
+Component Count:,90,,,,,,,
+,,,,,,,,
+Individual Components:,,,,,,,,
+,,,,,,,,
+Item,Qty,Reference(s),Value,LibPart,Footprint,Datasheet,MFG Name,MFG Part Num
+,,C1,0.1u,Device:C_Small,Capacitor_SMD:C_0402_1005Metric,~,TDK,C1005X5R1A104K050BA
+,,C2,0.1u,Device:C_Small,Capacitor_SMD:C_0402_1005Metric,~,TDK,C1005X7R1C103K
+,,C3,0.01u,Device:C_Small,Capacitor_SMD:C_0402_1005Metric,~,TDK,C1005X7R1C103K
+,,C4,0.1u,Device:C_Small,Capacitor_SMD:C_0402_1005Metric,~,TDK,C1005X5R1A104K050BA
+,,C5,0.1u,Device:C_Small,Capacitor_SMD:C_0402_1005Metric,~,TDK,C1005X5R1A104K050BA
+,,C6,0.01u,Device:C_Small,Capacitor_SMD:C_0402_1005Metric,~,Murata,GRM1555C1H220FA01D
+,,C7,0.01u,Device:C_Small,Capacitor_SMD:C_0402_1005Metric,~,TDK,C1005X7R1C103K
+,,C8,0.01u,Device:C_Small,Capacitor_SMD:C_0402_1005Metric,~,TDK,C1005X7R1C103K
+,,C9,0.01u,Device:C_Small,Capacitor_SMD:C_0402_1005Metric,~,TDK,C1005X7R1C103K
+,,C10,0.1u,Device:C_Small,Capacitor_SMD:C_0402_1005Metric,~,AVX,06033D104KAT2A
+,,C11,0.1u,Device:C_Small,Capacitor_SMD:C_0603_1608Metric,~,AVX,06033D104KAT2A
+,,C12,0.01u,Device:C_Small,Capacitor_SMD:C_0402_1005Metric,~,TDK,C1005X5R1C105K050BC
+,,C13,0.01u,Device:C_Small,Capacitor_SMD:C_0402_1005Metric,~,Murata,GRM1555C1H220FA01D
+,,C14,0.1u,Device:C_Small,Capacitor_SMD:C_0402_1005Metric,~,TDK,C1005X5R1A104K050BA
+,,C15,0.01u,Device:C_Small,Capacitor_SMD:C_0402_1005Metric,~,TDK,C1005X7R1C103K
+,,C16,0.01u,Device:C_Small,Capacitor_SMD:C_0402_1005Metric,~,TDK,C1005X5R1C105K050BC
+,,C17,0.1u,Device:C_Small,Capacitor_SMD:C_0402_1005Metric,~,TDK,C1005X5R1A104K050BA
+,,C18,2.2u,Device:C_Small,Capacitor_SMD:C_0603_1608Metric,~,TDK,C1005X5R1C225K050BC
+,,C19,0.1u,Device:C_Small,Capacitor_SMD:C_0402_1005Metric,~,AVX,06033D104KAT2A
+,,C20,1u,Device:C_Small,Capacitor_SMD:C_0402_1005Metric,~,TDK,C1005X5R1C105K050BC
+,,C21,0.01u,Device:C_Small,Capacitor_SMD:C_0402_1005Metric,~,TDK,C1005X7R1C103K
+,,C22,1u,Device:C_Small,Capacitor_SMD:C_0402_1005Metric,~,TDK,C1005X5R1C105K050BC
+,,C23,1u,Device:C_Small,Capacitor_SMD:C_0402_1005Metric,~,TDK,C1005X5R1C105K050BC
+,,C24,0.1u,Device:C_Small,Capacitor_SMD:C_0402_1005Metric,~,TDK,C1005X5R1A104K050BA
+,,C25,0.1u,Device:C_Small,Capacitor_SMD:C_0402_1005Metric,~,TDK,C1005X5R1A104K050BA
+,,C60,10u,Device:C_Small,Capacitor_SMD:C_0805_2012Metric,~,Murata,GRM21BR61A106KE19L
+,,C61,22u,Device:C_Small,Capacitor_SMD:C_0805_2012Metric,~,TDK,C2012X5R1C226K125AC
+,,C62,10u,Device:C_Small,Capacitor_SMD:C_0805_2012Metric,~,Murata,GRM21BR61A106KE19L
+,,D1,150060YS75000,LED:SFH4356P,LED_SMD:LED_0603_1608Metric,http://www.farnell.com/datasheets/1911348.pdf,Lumex,SML-LX0603GW-TR
+,,D2,150060YS75000,LED:SFH4356P,LED_SMD:LED_0603_1608Metric,http://www.farnell.com/datasheets/1911348.pdf,Rohm,SML-311UTT86
+,,D3,150060YS75000,LED:SFH4356P,LED_SMD:LED_0603_1608Metric,http://www.farnell.com/datasheets/1911348.pdf,Wurth Elektronik eiSos,150060YS75000
+,,D7,150060YS75000,LED:SFH4356P,LED_SMD:LED_0603_1608Metric,http://www.farnell.com/datasheets/1911348.pdf,,
+,,FB1,10,Device:Ferrite_Bead_Small,Capacitor_SMD:C_0402_1005Metric,~,Murata,BLM15AG100SN1D
+,,FB2,10,Device:Ferrite_Bead_Small,Capacitor_SMD:C_0402_1005Metric,~,Murata,BLM15AG100SN1D
+,,J1,USB_B_Micro,Connector:USB_B_Micro,Connector_USB:USB_Micro-B_Molex-105017-0001,~,Molex,105017-0001
+,,J3,Conn_02x05_Odd_Even,Connector_Generic:Conn_02x05_Odd_Even,Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Vertical,~,,
+,,J4,Conn_02x05_Odd_Even,Connector_Generic:Conn_02x05_Odd_Even,Connector_PinHeader_1.00mm:PinHeader_2x05_P1.00mm_Vertical,~,Samtec,FTSH-105-01-F-D-K
+,,J5,Conn_01x03,Connector_Generic:Conn_01x03,Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical,~,Wurth Elektronik,61300311121
+,,J6,Conn_01x03,Connector_Generic:Conn_01x03,Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical,~,Wurth Elektronik,61300311121
+,,J8,Conn_02x05_Odd_Even,Connector_Generic:Conn_02x05_Odd_Even,Connector_PinHeader_1.00mm:PinHeader_2x05_P1.00mm_Vertical,~,,
+,,J17,Conn_01x02,Connector_Generic:Conn_01x02,Connector_PinHeader_2.54mm:PinHeader_2x01_P2.54mm_Vertical,~,Wurth Elektronik,61300211121
+,,J18,Conn_01x02,Connector_Generic:Conn_01x02,Connector_PinHeader_2.54mm:PinHeader_2x01_P2.54mm_Vertical,~,Wurth Elektronik,61300211121
+,,J19,Conn_01x02,Connector_Generic:Conn_01x02,Connector_PinHeader_2.54mm:PinHeader_2x01_P2.54mm_Vertical,~,Wurth Elektronik,61300211121
+,,J20,Conn_01x02,Connector_Generic:Conn_01x02,Connector_PinHeader_2.54mm:PinHeader_2x01_P2.54mm_Vertical,~,Wurth Elektronik,61300211121
+,,J21,Conn_01x02,Connector_Generic:Conn_01x02,Connector_PinHeader_2.54mm:PinHeader_2x01_P2.54mm_Vertical,~,Wurth Elektronik,61300211121
+,,J22,Conn_02x05_Odd_Even,Connector_Generic:Conn_02x05_Odd_Even,pwrcon:Tag-Connect_TC2050-IDC-NL_2x05_P1.27mm_Vertical,~,Wurth Elektronik,61300311121
+,,L8,L_Core_Iron_Small,Device:L_Core_Iron_Small,Inductor_SMD:L_0805_2012Metric,~,Taiyo Yuden,BRC2012T2R2MD
+,,Q1,BSS138,Transistor_FET:BSS138,Package_TO_SOT_SMD:SOT-23,https://www.fairchildsemi.com/datasheets/BS/BSS138.pdf,Fairchild,BSS138
+,,R1,33,Device:R,Resistor_SMD:R_0402_1005Metric,~,Panasonic,ERJ-2RKF33R0X
+,,R2,33,Device:R,Resistor_SMD:R_0402_1005Metric,~,Panasonic,ERJ-2RKF33R0X
+,,R3,33,Device:R,Resistor_SMD:R_0402_1005Metric,~,Panasonic,ERJ-2RKF33R0X
+,,R4,33,Device:R,Resistor_SMD:R_0402_1005Metric,~,Panasonic,ERJ-2RKF33R0X
+,,R5,33,Device:R,Resistor_SMD:R_0402_1005Metric,~,Panasonic,ERJ-2RKF33R0X
+,,R6,33,Device:R,Resistor_SMD:R_0402_1005Metric,~,Panasonic,ERJ-2RKF33R0X
+,,R7,1k,Device:R,Resistor_SMD:R_0402_1005Metric,~,Vishay-Dale,CRCW04021K00JNED
+,,R8,33,Device:R,Resistor_SMD:R_0402_1005Metric,~,Panasonic,ERJ-2RKF33R0X
+,,R9,1k,Device:R,Resistor_SMD:R_0402_1005Metric,~,Vishay-Dale,CRCW04021K00JNED
+,,R10,1k,Device:R,Resistor_SMD:R_0402_1005Metric,~,Vishay-Dale,CRCW04021K00JNED
+,,R11,1k,Device:R,Resistor_SMD:R_0402_1005Metric,~,Vishay-Dale,CRCW04021K00JNED
+,,R12,0,Device:R,Resistor_SMD:R_0402_1005Metric,~,Panasonic,ERJ-2GE0R00X
+,,R13,100,Device:R,Resistor_SMD:R_0402_1005Metric,~,Vishay-Dale,CRCW0402100RJNED
+,,R14,100k,Device:R,Resistor_SMD:R_0603_1608Metric,~,Vishay-Dale,CRCW0603100KJNEA
+,,R15,330k,Device:R,Resistor_SMD:R_0402_1005Metric,~,Vishay-Dale,CRCW0402330KJNED
+,,R16,220k,Device:R,Resistor_SMD:R_0402_1005Metric,~,Vishay-Dale,CRCW0402220KJNED
+,,R17,100k,Device:R,Resistor_SMD:R_0402_1005Metric,~,Vishay-Dale,CRCW0402100KJNED
+,,R18,220,Device:R,Resistor_SMD:R_0603_1608Metric,~,Vishay-Dale,CRCW0603220RJNEA
+,,R19,220,Device:R,Resistor_SMD:R_0603_1608Metric,~,Vishay-Dale,CRCW0603220RJNEA
+,,R20,10k,Device:R,Resistor_SMD:R_0402_1005Metric,~,Vishay-Dale,CRCW040210K0JNED
+,,R21,100,Device:R,Resistor_SMD:R_0402_1005Metric,~,Panasonic,ERJ-2RKF1000X
+,,R22,100,Device:R,Resistor_SMD:R_0402_1005Metric,~,Vishay-Dale,CRCW0402100RFKED
+,,R23,4.87k,Device:R,Resistor_SMD:R_0603_1608Metric,~,Vishay-Dale,CRCW06034K87FKEA
+,,R24,270,Device:R,Resistor_SMD:R_0603_1608Metric,~,Vishay-Dale,CRCW0603270RJNEA
+,,R25,1k,Device:R,Resistor_SMD:R_0402_1005Metric,~,Vishay-Dale,CRCW04021K00JNED
+,,R26,100k,Device:R,Resistor_SMD:R_0402_1005Metric,~,Vishay-Dale,CRCW0402100KJNED
+,,R27,33,Device:R,Resistor_SMD:R_0402_1005Metric,~,Panasonic,ERJ-2RKF33R0X
+,,R28,51,Device:R,Resistor_SMD:R_0402_1005Metric,~,Vishay-Dale,CRCW040251R0JNED
+,,R29,1k,Device:R,Resistor_SMD:R_0402_1005Metric,~,Vishay-Dale,CRCW04021K00JNED
+,,R31,33,Device:R,Resistor_SMD:R_0402_1005Metric,~,Panasonic,ERJ-2RKF33R0X
+,,R32,1k,Device:R,Resistor_SMD:R_0402_1005Metric,~,Vishay-Dale,CRCW04021K00JNED
+,,R145,270,Device:R,Resistor_SMD:R_0603_1608Metric,~,Vishay-Dale,CRCW0603270RJNEA
+,,R146,100k,Device:R,Resistor_SMD:R_0402_1005Metric,~,Vishay-Dale,CRCW0402100KJNED
+,,SW1,SW_DIP_x01,Switch:SW_DIP_x01,Button_Switch_THT:SW_Tactile_SPST_Angled_PTS645Vx31-2LFS,~,APEM,MJTP1117
+,,U1,TM4C1294NCPDTI3R,MCU_TI:TM4C1294NCPDTI3R,Package_QFP:LQFP-128_14x14mm_P0.4mm,http://www.ti.com/lit/ds/symlink/msp432e401y.pdf,Texas Instruments,TM4C1294NCPDTI3R
+,,U2,TPD4S010DQAR,Power_Protection:TPD4S010DQAR,Package_SON:USON-10_2.5x1.0mm_P0.5mm,http://www.ti.com/lit/ds/symlink/tpd2eusb30a.pdf,Texas Instruments,TPD4S010DQAR
+,,U3,SN74LVC1T45DCK,Logic_LevelTranslator:SN74LVC1T45DCK,Package_TO_SOT_SMD:SOT-363_SC-70-6,http://www.ti.com/lit/ds/symlink/sn74lvc1t45.pdf,Texas Instruments,SN74LVC1T45DCKR
+,,U4,SN74LVC1T45DCK,Logic_LevelTranslator:SN74LVC1T45DCK,Package_TO_SOT_SMD:SOT-363_SC-70-6,http://www.ti.com/lit/ds/symlink/sn74lvc1t45.pdf,Texas Instruments,SN74LVC1T45DCKR
+,,U5,LM4040DBZ-2.0,Reference_Voltage:LM4040DBZ-2.0,Package_TO_SOT_SMD:SOT-23,http://www.ti.com/lit/ds/symlink/lm4040-n.pdf,Texas Instruments,LM4040B25IDBZR
+,,U6,SN74LVC1T45DCK,Logic_LevelTranslator:SN74LVC1T45DCK,Package_TO_SOT_SMD:SOT-363_SC-70-6,http://www.ti.com/lit/ds/symlink/sn74lvc1t45.pdf,Texas Instruments,SN74LVC1T45DCKR
+,,U12,TPS62162DSG,Regulator_Switching:TPS62162DSG,Package_SON:WSON-8-1EP_2x2mm_P0.5mm_EP0.9x1.6mm_ThermalVias,http://www.ti.com/lit/ds/symlink/tps62160.pdf,Texas Instruments,TPS62162DSGR
+,,Y1,Crystal,Device:Crystal,Crystal:Crystal_SMD_Abracon_ABM3-2Pin_5.0x3.2mm,~,Abracon,ABM3-16.000MHZ-D2Y-T
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+Collated Components:,,,,,,,,
+,,,,,,,,
+Item,Qty,Reference(s),Value,LibPart,Footprint,Datasheet,MFG Name,MFG Part Num
+1,10,"C1, C2, C4, C5, C10, C14, C17, C19, C24, C25",0.1u,Device:C_Small,Capacitor_SMD:C_0402_1005Metric,~,TDK,C1005X5R1A104K050BA
+2,10,"C3, C6, C7, C8, C9, C12, C13, C15, C16, C21",0.01u,Device:C_Small,Capacitor_SMD:C_0402_1005Metric,~,TDK,C1005X7R1C103K
+3,1,C11,0.1u,Device:C_Small,Capacitor_SMD:C_0603_1608Metric,~,AVX,06033D104KAT2A
+4,1,C18,2.2u,Device:C_Small,Capacitor_SMD:C_0603_1608Metric,~,TDK,C1005X5R1C225K050BC
+5,3,"C20, C22, C23",1u,Device:C_Small,Capacitor_SMD:C_0402_1005Metric,~,TDK,C1005X5R1C105K050BC
+6,2,"C60, C62",10u,Device:C_Small,Capacitor_SMD:C_0805_2012Metric,~,Murata,GRM21BR61A106KE19L
+7,1,C61,22u,Device:C_Small,Capacitor_SMD:C_0805_2012Metric,~,TDK,C2012X5R1C226K125AC
+8,4,"D1, D2, D3, D7",150060YS75000,LED:SFH4356P,LED_SMD:LED_0603_1608Metric,http://www.farnell.com/datasheets/1911348.pdf,Lumex,SML-LX0603GW-TR
+9,2,"FB1, FB2",10,Device:Ferrite_Bead_Small,Capacitor_SMD:C_0402_1005Metric,~,Murata,BLM15AG100SN1D
+10,1,J1,USB_B_Micro,Connector:USB_B_Micro,Connector_USB:USB_Micro-B_Molex-105017-0001,~,Molex,105017-0001
+11,1,J3,Conn_02x05_Odd_Even,Connector_Generic:Conn_02x05_Odd_Even,Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Vertical,~,,
+12,2,"J4, J8",Conn_02x05_Odd_Even,Connector_Generic:Conn_02x05_Odd_Even,Connector_PinHeader_1.00mm:PinHeader_2x05_P1.00mm_Vertical,~,Samtec,FTSH-105-01-F-D-K
+13,2,"J5, J6",Conn_01x03,Connector_Generic:Conn_01x03,Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical,~,Wurth Elektronik,61300311121
+14,5,"J17, J18, J19, J20, J21",Conn_01x02,Connector_Generic:Conn_01x02,Connector_PinHeader_2.54mm:PinHeader_2x01_P2.54mm_Vertical,~,Wurth Elektronik,61300211121
+15,1,J22,Conn_02x05_Odd_Even,Connector_Generic:Conn_02x05_Odd_Even,pwrcon:Tag-Connect_TC2050-IDC-NL_2x05_P1.27mm_Vertical,~,Wurth Elektronik,61300311121
+16,1,L8,L_Core_Iron_Small,Device:L_Core_Iron_Small,Inductor_SMD:L_0805_2012Metric,~,Taiyo Yuden,BRC2012T2R2MD
+17,1,Q1,BSS138,Transistor_FET:BSS138,Package_TO_SOT_SMD:SOT-23,https://www.fairchildsemi.com/datasheets/BS/BSS138.pdf,Fairchild,BSS138
+18,9,"R1, R2, R3, R4, R5, R6, R8, R27, R31",33,Device:R,Resistor_SMD:R_0402_1005Metric,~,Panasonic,ERJ-2RKF33R0X
+19,7,"R7, R9, R10, R11, R25, R29, R32",1k,Device:R,Resistor_SMD:R_0402_1005Metric,~,Vishay-Dale,CRCW04021K00JNED
+20,1,R12,0,Device:R,Resistor_SMD:R_0402_1005Metric,~,Panasonic,ERJ-2GE0R00X
+21,3,"R13, R21, R22",100,Device:R,Resistor_SMD:R_0402_1005Metric,~,Vishay-Dale,CRCW0402100RJNED
+22,1,R14,100k,Device:R,Resistor_SMD:R_0603_1608Metric,~,Vishay-Dale,CRCW0603100KJNEA
+23,1,R15,330k,Device:R,Resistor_SMD:R_0402_1005Metric,~,Vishay-Dale,CRCW0402330KJNED
+24,1,R16,220k,Device:R,Resistor_SMD:R_0402_1005Metric,~,Vishay-Dale,CRCW0402220KJNED
+25,3,"R17, R26, R146",100k,Device:R,Resistor_SMD:R_0402_1005Metric,~,Vishay-Dale,CRCW0402100KJNED
+26,2,"R18, R19",220,Device:R,Resistor_SMD:R_0603_1608Metric,~,Vishay-Dale,CRCW0603220RJNEA
+27,1,R20,10k,Device:R,Resistor_SMD:R_0402_1005Metric,~,Vishay-Dale,CRCW040210K0JNED
+28,1,R23,4.87k,Device:R,Resistor_SMD:R_0603_1608Metric,~,Vishay-Dale,CRCW06034K87FKEA
+29,2,"R24, R145",270,Device:R,Resistor_SMD:R_0603_1608Metric,~,Vishay-Dale,CRCW0603270RJNEA
+30,1,R28,51,Device:R,Resistor_SMD:R_0402_1005Metric,~,Vishay-Dale,CRCW040251R0JNED
+31,1,SW1,SW_DIP_x01,Switch:SW_DIP_x01,Button_Switch_THT:SW_Tactile_SPST_Angled_PTS645Vx31-2LFS,~,APEM,MJTP1117
+32,1,U1,TM4C1294NCPDTI3R,MCU_TI:TM4C1294NCPDTI3R,Package_QFP:LQFP-128_14x14mm_P0.4mm,http://www.ti.com/lit/ds/symlink/msp432e401y.pdf,Texas Instruments,TM4C1294NCPDTI3R
+33,1,U2,TPD4S010DQAR,Power_Protection:TPD4S010DQAR,Package_SON:USON-10_2.5x1.0mm_P0.5mm,http://www.ti.com/lit/ds/symlink/tpd2eusb30a.pdf,Texas Instruments,TPD4S010DQAR
+34,3,"U3, U4, U6",SN74LVC1T45DCK,Logic_LevelTranslator:SN74LVC1T45DCK,Package_TO_SOT_SMD:SOT-363_SC-70-6,http://www.ti.com/lit/ds/symlink/sn74lvc1t45.pdf,Texas Instruments,SN74LVC1T45DCKR
+35,1,U5,LM4040DBZ-2.0,Reference_Voltage:LM4040DBZ-2.0,Package_TO_SOT_SMD:SOT-23,http://www.ti.com/lit/ds/symlink/lm4040-n.pdf,Texas Instruments,LM4040B25IDBZR
+36,1,U12,TPS62162DSG,Regulator_Switching:TPS62162DSG,Package_SON:WSON-8-1EP_2x2mm_P0.5mm_EP0.9x1.6mm_ThermalVias,http://www.ti.com/lit/ds/symlink/tps62160.pdf,Texas Instruments,TPS62162DSGR
+37,1,Y1,Crystal,Device:Crystal,Crystal:Crystal_SMD_Abracon_ABM3-2Pin_5.0x3.2mm,~,Abracon,ABM3-16.000MHZ-D2Y-T
